@@ -1,5 +1,5 @@
 # taobao_pruduct_info_to_excel
-淘宝接口，产品信息自动下载成Excel
+淘宝搜索接口，将产品信息自动下载成Excel
 
 ### 运行环境
 Python 2.7
